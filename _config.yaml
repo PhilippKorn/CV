@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: CV
+title: "CV"
 
 # Your name to show in the footer
-author: Philipp Korn
+author: "Philipp Korn"
 
 ###############################################
 # --- List of links in the navigation bar --- #
