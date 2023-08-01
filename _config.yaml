@@ -1,6 +1,7 @@
 author: "Philipp Korn"
 title: "Digital CV of Philipp Korn"
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 email: "philippkorn@posteo.de"
 phone: "+49 176 32584904"
 mastodon: "https://merveilles.town/@huxel"
