@@ -7,12 +7,17 @@
 - Mitwirkung an der Entwicklung einer umfangreichen medizinischen App für Parkinsonerkrankte in zusammenarbeit mit dem Universitätsklinikum Giessen und Marburg
 - Programmierung, Qualitätsmanagement, Erstellung von Verfahrens- sowie Arbeitsanweisungen.
 
+------
+
 ## Ausbildung
 
 ### Technische Hochschule Mittelhessen, Gießen
 
-#### Master of Science | 04.2023
-#### Bachelor of Science | 04.2021
+#### Master of Science     | 04.2023
+#### Bachelor of Science   | 04.2021
+#### Abitur                | 02.2011
+
+------
 
 ## Fähigkeiten
 
