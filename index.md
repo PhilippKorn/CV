@@ -1,22 +1,22 @@
-## Beruflicher Werdegang
+# Lebenslauf Philipp Korn
 
-### Technische Hochschule Mittelhessen, Gießen
+## Technische Hochschule Mittelhessen, Gießen
 
-#### Softwareentwickler und Projektmitarbeiter | 01.04.2022 - 31.03.2023
+### Softwareentwickler und Projektmitarbeiter | 01.04.2022 - 31.03.2023
 
 - Mitwirkung an der Entwicklung einer umfangreichen medizinischen App für Parkinsonerkrankte in zusammenarbeit mit dem Universitätsklinikum Giessen und Marburg
 - Programmierung, Qualitätsmanagement, Erstellung von Verfahrens- sowie Arbeitsanweisungen.
 
-### Ausbildung
+## Ausbildung
 
-#### Technische Hochschule Mittelhessen, Gießen
+### Technische Hochschule Mittelhessen, Gießen
 
-##### Master of Science | 04.2023
-##### Bachelor of Science | 04.2021
+#### Master of Science | 04.2023
+#### Bachelor of Science | 04.2021
 
-### Fähigkeiten
+## Fähigkeiten
 
-#### Programmiersprachen
+### Programmiersprachen
 
 - Python
 - TypeScript
@@ -26,21 +26,21 @@
 - Kotlin
 - Bash
 
-#### Frameworks
+### Frameworks
 
 - Angular
 - Pandas
 - Ionic
 - Laravel
 
-#### Software- und Entwicklungsumgebungen
+### Software- und Entwicklungsumgebungen
 
 - Vscode (Vscodium)
 - VIM, Nvim
 - AndroidStudio
 - Xcode
 
-#### Sonstige
+### Sonstige
 
 - Markdown (Pandoc, Github)
 - Pandoc
