@@ -63,3 +63,19 @@ h1, h2, h3 {
 #mainLeft {
     border-right: 1px solid lightgray;
 }
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* .side-text {
+    margin-left: 20px; /* Optional: Für einen kleinen Abstand zwischen h3 und dem Text */
+} */
+.side-text {
+    position: absolute;
+    right: 0; /* Positioniert den Text ganz rechts im .flex-container */
+    top: 50%; /* Zentriert den Text vertikal */
+    transform: translateY(-50%); /* Verschiebt den Text um die Hälfte seiner Höhe nach oben, um eine perfekte vertikale Zentrierung zu erreichen */
+}
